@@ -1,2 +1,3 @@
 # ADMN5016
-midterm test ADMN5016
+Here you can find midterm test for 
+Applied Artificial Intelligence and Machine Learning ADMN5016
